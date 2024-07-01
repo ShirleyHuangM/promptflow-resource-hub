@@ -1,0 +1,7 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/AzureOpenAIConnection.schema.json
+name: yijun-aoai
+type: azure_open_ai
+api_key: "3eb009f539314852ac9ebc4a97955113"
+api_base: "https://aischoolendpoint.openai.azure.com/"
+api_type: "azure"
+api_version: "2024-02-15-preview"
